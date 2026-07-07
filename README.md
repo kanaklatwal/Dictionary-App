@@ -102,9 +102,9 @@ Build the Android APK using Expo EAS Build.
 
 GitHub: https://github.com/kanaklatwal
 
-LinkedIn: *(Add your LinkedIn profile here)*
+LinkedIn: https://www.linkedin.com/in/kanaklatwal/
 
-Portfolio: *(Add your portfolio link here)*
+Portfolio: https://kanaklatwal-portfolio.vercel.app/
 
 ---
 
