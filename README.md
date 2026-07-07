@@ -48,19 +48,19 @@ src
 
 ### 🏠 Home Screen
 
-> Add `screenshots/home.jpg`
+>  `screenshots/home.jpg`
 
 ### 🔍 Search Result
 
-> Add `screenshots/search-result.jpg`
+>  `screenshots/search-result.jpg`
 
 ### ⭐ Favorites
 
-> Add `screenshots/favorites.jpg`
+>  `screenshots/favorites.jpg`
 
 ### 🕘 History
 
-> Add `screenshots/history.jpg`
+>  `screenshots/history.jpg`
 
 ---
 
